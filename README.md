@@ -3,6 +3,7 @@
 Welcome! This GitHub repository is a curated collection of real-world documentation and resources used in Software Asset Management (SAM) initiatives.
 
 These resources were developed to support cost control, license compliance, vendor accountability, and operational visibility across large IT environments.
+
 📂 Repository Overview
 Inside this repository you’ll find:
 
