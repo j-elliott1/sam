@@ -1,4 +1,4 @@
-🎉 Welcome to my SAMurai Repo – Your Samurai for Software Asset Management resources! 🥷💻
+🎉 Welcome to my SAM-urai Repo! 🥷💻
 
 SAMurai – Software Asset Management SOPs & Workflows
 Welcome to SAMurai, your go-to repository for streamlined Software Asset Management (SAM) standard operating procedures (SOPs) and workflows. Whether you’re just starting out or refining an existing SAM practice, you’ll find clear, concise guidance.
