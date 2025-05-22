@@ -1,8 +1,8 @@
-🎉 Welcome to my SAM-urai Repo! 🥷💻
+# Software Asset Management (SAM) – SOPs, Tools & Governance
 
-SAMurai – Software Asset Management SOPs & Workflows
-Welcome to SAMurai, your go-to repository for streamlined Software Asset Management (SAM) standard operating procedures (SOPs) and workflows. Whether you’re just starting out or refining an existing SAM practice, you’ll find clear, concise guidance.
+Welcome! This GitHub repository is a curated collection of real-world documentation and resources used in Software Asset Management (SAM) initiatives.
 
+These resources were developed to support cost control, license compliance, vendor accountability, and operational visibility across large IT environments.
 📂 Repository Overview
 Inside this repository you’ll find:
 
@@ -10,7 +10,17 @@ Inside this repository you’ll find:
 Step-by-step procedures covering license acquisition, renewal, decommissioning, and audit preparation.
 
 📊  Workflows
-Visual diagrams (SVG/PNG) and accompanying documentation detailing approval processes, request triage, and compliance checks.
+Documentation detailing approval processes, request triage, and compliance checks.
 
 🤖 Scripts
 Lightweight PowerShell and Python scripts to automate inventory scans, license reporting, and notifications.
+
+*(More coming soon – including workflows and visual aids)*
+
+📌 Purpose
+
+This repo is part of an ongoing effort to:
+- Document repeatable processes for SAM governance
+- Improve communication between SAM, procurement, and IT operations
+
+
