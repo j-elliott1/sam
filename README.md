@@ -8,14 +8,14 @@ These resources were developed to support cost control, license compliance, vend
 📂 Repository Overview
 Inside this repository you’ll find:
 
-  📚 SOPs
-  Step-by-step procedures covering license acquisition, renewal, decommissioning, and audit preparation.
-  
-  📊  Workflows
-  Documentation detailing approval processes, request triage, and compliance checks.
-  
-  🤖 Scripts
-  Lightweight PowerShell and Python scripts to automate inventory scans, license reporting, and notifications.
+    📚 SOPs
+    Step-by-step procedures covering license acquisition, renewal, decommissioning, and audit preparation.
+    
+    📊  Workflows
+    Documentation detailing approval processes, request triage, and compliance checks.
+    
+    🤖 Scripts
+    Lightweight PowerShell and Python scripts to automate inventory scans, license reporting, and notifications.
 
 *(More coming soon – including workflows and visual aids)*
 
