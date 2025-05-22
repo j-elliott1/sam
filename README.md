@@ -4,6 +4,7 @@ Welcome! This GitHub repository is a curated collection of real-world documentat
 
 These resources were developed to support cost control, license compliance, vendor accountability, and operational visibility across large IT environments.
 
+
 📂 Repository Overview
 Inside this repository you’ll find:
 
@@ -17,6 +18,7 @@ Inside this repository you’ll find:
   Lightweight PowerShell and Python scripts to automate inventory scans, license reporting, and notifications.
 
 *(More coming soon – including workflows and visual aids)*
+
 
 📌 Purpose
 
