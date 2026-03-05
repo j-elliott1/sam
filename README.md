@@ -5,7 +5,7 @@ Welcome! This GitHub repository is a curated collection of real-world documentat
 These resources were developed to support cost control, license compliance, vendor accountability, and operational visibility across large IT environments.
 
 
-📂 Repository Overview
+Repository Overview
 Inside this repository you’ll find:
 # SOPs
     - Step-by-step procedures covering license acquisition, renewal, decommissioning, and audit preparation.  
@@ -17,7 +17,7 @@ Inside this repository you’ll find:
 *(More coming soon – including workflows and visual aids)*
 
 
-📌 Purpose
+Purpose
 
 This repo is part of an ongoing effort to:
 - Document repeatable processes for SAM governance
