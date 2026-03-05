@@ -17,7 +17,7 @@ It should be reviewed regularly and updated following audits, renewals, or key p
 
 ---
 
-## ⚠️ Risk Log
+## Risk Log
 
 | ID | Risk Description | Category | Likelihood | Impact | Risk Rating (L×I) | Mitigation Strategy | Contingency Plan | Owner | Status | Review Date |
 |----|------------------|-----------|-------------|---------|-------------------|--------------------|------------------|--------|----------|--------------|
@@ -34,7 +34,7 @@ It should be reviewed regularly and updated following audits, renewals, or key p
 
 ---
 
-## 🧮 Risk Scoring Matrix
+## Risk Scoring Matrix
 
 | **Likelihood** | **Impact** | **Score (L×I)** | **Risk Level** |
 |----------------|-------------|------------------|----------------|
@@ -47,7 +47,7 @@ It should be reviewed regularly and updated following audits, renewals, or key p
 
 ---
 
-## 🧩 Governance Notes
+## Governance Notes
 
 - **Review Frequency:** Monthly or after license renewals, vendor onboarding, or audits  
 - **Data Sources:** SCCM, ServiceNow, Active Directory, Procurement, Contract Management  
